@@ -2,6 +2,8 @@ import SwiftUI
 
 struct ContentView: View {
     
+    // variables
+    
     @State private var username = ""
     @State private var password = ""
     @State private var wrongUsername = 0
